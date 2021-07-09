@@ -130,7 +130,7 @@
                     </div>
                 @endif
 
-       
+
 
 
         </x-table>
@@ -188,4 +188,5 @@
         </x-slot>
 
     </x-jet-dialog-modal>
+
 </div>
